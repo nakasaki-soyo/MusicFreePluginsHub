@@ -46,21 +46,6 @@
       "version": "0.0.2"
     },
     {
-      "name": "udio",
-      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/udio\/index.js",
-      "version": "0.0.0"
-    },
-    {
-      "name": "音悦台",
-      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/yinyuetai\/index.js",
-      "version": "0.0.1"
-    },
-    {
-      "name": "Youtube",
-      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/youtube\/index.js",
-      "version": "0.0.1"
-    },
-    {
       "name": "QQ音乐",
       "url": "https:\/\/gitee.com\/ThomasYou\/musicfree\/raw\/master\/dist\/qq\/index.js",
       "version": "0.2.6"
@@ -84,6 +69,11 @@
       "name": "酷狗",
       "url": "https:\/\/gitee.com\/ThomasYou\/musicfree\/raw\/master\/dist\/kg\/index.js",
       "version": "0.1.6"
+    },
+    {
+      "name": "音悦台",
+      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/yinyuetai\/index.js",
+      "version": "0.0.1"
     },
     {
       "name": "酷歌词",
@@ -128,27 +118,27 @@
     {
       "name": "小秋音乐",
       "url": "https:\/\/raw.niuma666bet.buzz\/Huibq\/keep-alive\/master\/Music_Free\/xiaoqiu.js",
-      "version": "0.2.0"
+      "version": "0.3.0"
     },
     {
       "name": "小蜗音乐",
       "url": "https:\/\/raw.niuma666bet.buzz\/Huibq\/keep-alive\/master\/Music_Free\/xiaowo.js",
-      "version": "0.2.0"
+      "version": "0.3.0"
     },
     {
       "name": "小芸音乐",
       "url": "https:\/\/raw.niuma666bet.buzz\/Huibq\/keep-alive\/master\/Music_Free\/xiaoyun.js",
-      "version": "0.2.0"
+      "version": "0.3.0"
     },
     {
       "name": "小枸音乐",
       "url": "https:\/\/raw.niuma666bet.buzz\/Huibq\/keep-alive\/master\/Music_Free\/xiaogou.js",
-      "version": "0.2.0"
+      "version": "0.3.0"
     },
     {
       "name": "小蜜音乐",
       "url": "https:\/\/raw.niuma666bet.buzz\/Huibq\/keep-alive\/master\/Music_Free\/xiaomi.js",
-      "version": "0.2.0"
+      "version": "0.3.0"
     },
     {
       "name": "网易云电台",
